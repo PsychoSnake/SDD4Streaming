@@ -1,0 +1,25 @@
+{
+    "defaultSeverity": "error",
+    "rulesDirectory": "tslint-plugin-prettier",
+    "rules": {
+        "ordered-imports": [
+            true,
+            {
+                "import-sources-order": "case-insensitive",
+                "named-imports-order": "case-insensitive",
+                "grouped-imports": true
+            }
+        ],
+        "trailing-comma": true,
+        "variable-name": false,
+        "no-duplicate-imports": true,
+        "no-unused-variable": false,
+        "no-null-keyword": false,
+        "no-inferrable-types": true,
+        "array-type": [true, "generic"],
+        "ter-indent": false,
+        "no-use-before-declare": false,
+        "prettier": true,
+        "arrow-parens": false
+    }
+}

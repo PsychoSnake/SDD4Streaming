@@ -1,0 +1,28 @@
+pt/ist/middleware/SddFlatMapFunction.java
+ pt.ist.middleware.SddFlatMapFunction
+pt/ist/middleware/SddFilterFunction.java
+ pt.ist.middleware.SddFilterFunction
+pt/ist/OperatorCreator.java
+ pt.ist.OperatorCreator
+pt/ist/FlinkRestApiHandler.java
+ pt.ist.FlinkRestApiHandler
+pt/ist/middleware/SddAllWindowApplyFunction.java
+ pt.ist.middleware.SddAllWindowApplyFunction
+pt/ist/middleware/SddMapFunction.java
+ pt.ist.middleware.SddMapFunction
+pt/ist/model/ServiceLevelAgreement.java
+ pt.ist.model.ServiceLevelAgreement
+pt/ist/model/NewJobRequestBody.java
+ pt.ist.model.NewJobRequestBody
+pt/ist/model/SddStreamingInitializationFailure.java
+ pt.ist.model.SddStreamingInitializationFailure
+pt/ist/middleware/SddReduceFunction.java
+ pt.ist.middleware.SddReduceFunction
+pt/ist/model/OperationResponseBody.java
+ pt.ist.model.OperationResponseBody
+pt/ist/model/FlinkRestClient.java
+ pt.ist.model.FlinkRestClient
+pt/ist/middleware/SddWindowApplyFunction.java
+ pt.ist.middleware.SddWindowApplyFunction
+pt/ist/SddStreaming.java
+ pt.ist.SddStreaming
